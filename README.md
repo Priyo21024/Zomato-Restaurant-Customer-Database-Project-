@@ -18,5 +18,12 @@ The goal was to design and implement a relational database for Zomato: Food Deli
 - Storing customer reviews and ratings  
 - Representing real-world relational dependencies
 
+**Presented By:**
+
+Group 1
+
+- Ishita             - 341133
+- Priyotosh Ganguly  - 341162
+- Devanshi Goel      - 341179
 
 

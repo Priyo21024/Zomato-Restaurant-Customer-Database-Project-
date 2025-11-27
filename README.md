@@ -9,7 +9,7 @@ This project includes:
 - **SQL Schema** (table creation scripts)
 - **Sample Data Insertion**
 
-The goal of this project is to design and implement a relational database for Zomato: Food Delivery Platform. The database focuses on:
+The goal was to design and implement a relational database for Zomato: Food Delivery Platform and keeping this in mind the database focuses on:
 
 - Managing restaurants and their menus  
 - Capturing customer information  

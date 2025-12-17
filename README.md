@@ -18,6 +18,8 @@ The goal was to design and implement a relational database for Zomato: Food Deli
 - Storing customer reviews and ratings  
 - Representing real-world relational dependencies
 
+<img width="1224" height="634" alt="image" src="https://github.com/DilipBaduwal/Udaan-B2B-Supply-Chain-Management/blob/main/WhatsApp%20Image%202025-12-17%20at%2014.46.37.jpeg"
+
 **Presented By:**
 
 Group 1
